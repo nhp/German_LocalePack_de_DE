@@ -1,6 +1,7 @@
 "# of Use","Anzahl der Verwendungen"
 "%1$s incl tax.","%1$s inkl. Steuern."
 "%s - %s","%s - %s"
+"%s-%s of %s","%s-%s von %s"
 "%s Item(s)","%s Artikel"
 "%s and above","%s und höher "
 "(%d)","(%d)"
